@@ -1,8 +1,5 @@
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-    <iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-    </iframe>
-  </div>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlweHIwcTFsbHdrc3hnMmlnd2xxemY3cGUycmppczJoejlxcTV4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="200" />
 </div>
 
 ## Bienvenido a mi GitHub 👋
