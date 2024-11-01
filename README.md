@@ -54,9 +54,11 @@
 ### MIS ESTADISTICAS
 
 <div align="center">
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeiFraz&theme=prussian&hide_border=true&border_radius=4&locale=es)](https://git.io/streak-stats)
   
   ![LeiFraz GitHub stats](https://github-readme-stats.vercel.app/api?username=leifraz&show_icons=true&theme=radical)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+  
 </div>
